@@ -13,6 +13,10 @@ let bower and npm install dependency for you
 
 
 
+run
+```grunt serve```
+open ```http://127.0.0.1:9000``` to preview
+
 
 # bash readme
 #
