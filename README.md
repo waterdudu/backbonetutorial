@@ -1,4 +1,19 @@
 
+
+
+create backbone scaffold using ```yo```
+
+yo
+
+then choose Backbone
+
+choose RequireJS and Modernizer
+
+let bower and npm install dependency for you
+
+
+
+
 # bash readme
 #
 # create a collection for our To Do items
